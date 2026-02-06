@@ -12,7 +12,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - '&trnas'
+  - {t: ▽, type: trans}
   - ⌫
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
